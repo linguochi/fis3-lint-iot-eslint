@@ -1,0 +1,33 @@
+{
+  "name": "fis3-lint-iot-eslint",
+  "version": "1.0.4",
+  "description": "eslint plugin for fis3 ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linguochi/fis3-lint-iot-eslint.git"
+  },
+  "keywords": [
+    "eslint",
+    "fis3"
+  ],
+  "author": "linguochi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linguochi/fis3-lint-iot-eslint/issues"
+  },
+  "homepage": "https://github.com/linguochi/fis3-lint-iot-eslint#readme",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "eslint": "^3.17.1",
+    "eslint-friendly-formatter": "^2.0.7",
+    "eslint-plugin-html": "^2.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-promise": "^3.4.0",
+    "fs": "0.0.1-security",
+    "lodash": "^4.17.4"
+  }
+}

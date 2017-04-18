@@ -1,0 +1,26 @@
+{
+  "ignoreFiles":["fis-config.js"],
+  "useEslintrc": false,
+  "envs": ["es6", "browser", "node", "commonjs", "amd"],
+  "globals": [
+    "__inline",
+    "__uri",
+    "__RESOURCE_MAP__",
+    "fis",
+    "Vue",
+    "$",
+    "session_storage",
+    "m9futil",
+    "alert",
+    "Navigation",
+    "navigator",
+    "TDAPP",
+    "jiuFuWallet",
+    "Swiper",
+    "Context",
+    "Tool",
+    "TouchSlide"
+  ],
+  "rules": {},
+  "plugins": []
+}
